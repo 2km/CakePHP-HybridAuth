@@ -1,5 +1,5 @@
 {
-    "name": "admad/cakephp-hybridauth",
+    "name": "2km/cakephp-hybridauth",
     "description": "A CakePHP plugin for using the HybridAuth social sign on library",
     "type": "cakephp-plugin",
     "keywords": [
@@ -10,7 +10,7 @@
         "social authentication",
         "multi provider"
     ],
-    "homepage": "http://github.com/ADmad/CakePHP-HybridAuth",
+    "homepage": "http://github.com/2km/CakePHP-HybridAuth",
     "license": "MIT",
     "require": {
         "cakephp/cakephp": "~3.1",
