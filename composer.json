@@ -1,5 +1,5 @@
 {
-  "name": "2km/cakephp-hybridauth",
+  "name": "2km/CakePHP-HybridAuth",
   "description": "A CakePHP plugin for using the HybridAuth social sign on library",
   "type": "cakephp-plugin",
   "keywords": [
